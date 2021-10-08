@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-08 02:08:51
+# UPDATED: 2021-10-09 02:08:44
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14437
+# DOMAIN: 14414
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 13256
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 28175
+# TOTAL: 28152
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -97,7 +97,6 @@
 123cursors.com
 123date.me
 123vidz.com
-12648afd00d93.com
 1298bab69bbc4.com
 12dc71b7cb820f2a.com
 12i.cn
@@ -165,7 +164,6 @@
 2137dc12f9d8.com
 2155ec.com
 217wo.com
-21b507a044d841b.com
 21c9a53484951.com
 21find.com
 21sexturycash.com
@@ -305,7 +303,6 @@
 4702fb341ddf276d.com
 473863a8ef28.com
 48331375c351e.com
-48dc47c7234e5258.com
 4936.cn
 49453k0l.vr.loveota.com
 49453k0l.vs.loveota.com
@@ -1357,6 +1354,7 @@ adspruce.com
 adspsp.com
 adspyglass.com
 adspynet.com
+adsrevenue.net
 adsring.com
 adsrv.bangbros.com
 adsrv.us
@@ -1546,6 +1544,7 @@ advserver.xyz
 advsnx.net
 adwalte.info
 adways.com
+adwbs.ximalaya.com
 adwebster.com
 adworkmedia.com
 adworkmedia.net
@@ -1742,7 +1741,6 @@ ailanibah.com
 ailawlani.club
 aileenvideos.pro
 aili.com
-ailtumty.net
 aim4media.com
 aima.weathercn.com
 aimatch.com
@@ -2131,7 +2129,6 @@ asenytuhlhwrwz.com
 asepurch.pro
 aservices.party
 ashaidbit.club
-ashemeth.com
 asiafriendfinder.com
 asiangfsex.com
 asimov-win.settings.data.microsoft.com.akadns.net
@@ -2355,7 +2352,6 @@ backlink-test.de
 backlink-umsonst.de
 backlinkdino.de
 backlinks.com
-backlogtop.xyz
 backup.customstat.video.51togic.com
 baconaces.pro
 bad.maienyanjing.cn
@@ -2382,7 +2378,6 @@ baidua2.cardbaobao.com
 baiduccdn1.com
 baiducdncmn.inter.iqiyi.com
 baimuyuan.com.cn
-baipagid.com
 baitaiad.com
 baixing.com
 baizhu.cc
@@ -3285,7 +3280,6 @@ cheksoam.com
 chengjie168.com.cn
 chenyayun.com.cn
 chenzx.site
-chersoat.com
 chiasephim.xyz
 chiliadv.com
 china-netwave.com
@@ -4651,7 +4645,6 @@ doomail.org
 doomna.com
 dopa.com.cn
 dopor.info
-doshaido.com
 dosugcz.biz
 dotaki.com
 dotandad.com
@@ -5108,7 +5101,6 @@ escortso.com
 escottish.com
 esdipherecoordi.info
 esearchvision.com
-eseecmoa.com
 eshortonempleae.info
 esignificanvi.info
 esm1.net
@@ -5595,7 +5587,6 @@ freestats.ws
 freetellafriend.com
 freetracker.biz
 freetrafficsystem.com
-freetricktipss.info
 freeusersonline.com
 freewebcams.com
 freewebfonts.org
@@ -5661,7 +5652,6 @@ future-hawk-content.co.uk
 futureresiduals.com
 futureus.com
 futuristicfifth.com
-fuxoasim.link
 fuz.cc
 fuziontech.net
 fvenxjtzuaxu.com
@@ -5700,7 +5690,6 @@ gacela.eu
 gaftaums.com
 gagacon.com
 gainmoneyfast.com
-gaitheed.com
 gakseeft.com
 galaks.io
 galaxiemedia.fr
@@ -5847,11 +5836,16 @@ gg.1whour.com
 gg.huolinhe.com
 gg1.jc001.cn
 ggaji.com
+ggc.cmvideo.cn
 ggdata1.cnr.cn
+ggic03.miguvideo.com
 gglscr.online
+ggmk.miguvideo.com
 ggsafe.com
+ggv.cmvideo.cn
 ggwcash.com
 ggx.cmvideo.cn
+ggx03.miguvideo.com
 gho.ysbjgjwh.com
 giantaffiliates.com
 giantsavings-a.akamaihd.net
@@ -5875,7 +5869,6 @@ gklmedia.com
 gl-cash.com
 glailols.com
 glaimtug.com
-glargoun.uk
 glauptan.net
 glawheejoushpush.com
 glbtracker.com
@@ -5908,7 +5901,6 @@ glookalr.com
 glookroz.net
 gloolsee.net
 gloorajo.com
-glotchat.click
 glowdot.com
 glumtitu.net
 gm99.com
@@ -6008,7 +6000,6 @@ grafpedia.com
 graftaub.com
 grafzen.com
 graicmiw.com
-graidsee.net
 graivaik.com
 granify.com
 grapeshot.co.uk
@@ -6017,7 +6008,6 @@ graphinsider.com
 gratis-besucherzaehler.de
 gratis-counter-gratis.de
 gratisnetwork.com
-graucoay.net
 gravitec.net
 gravity.com
 gravity4.com
@@ -7169,7 +7159,6 @@ k9x.net
 kadam.ru
 kadirzerey.com
 kadman.net
-kaishist.top
 kaixinjiehun.com
 kaizentraffic.com
 kakayy.com
@@ -7452,7 +7441,6 @@ lepinsar.com
 les-experts.com
 leserservice-tracking.de
 lessbuttons.com
-lessonis.com
 letreach.com
 letro.jp
 letsgetsocialnow.com
@@ -8348,7 +8336,6 @@ money4ads.com
 moneycosmos.com
 moneymakercdn.com
 moneytec.com
-moneywhisper.com
 mongoosemetrics.com
 monitis.com
 monitor-stsdk.vivo.com.cn
@@ -8772,7 +8759,6 @@ niftymaps.com
 nighter.club
 nik.io
 nile.works
-niltutch.com
 nim.qiyukf.com
 nimiq-network.com
 nimiq.com
@@ -8809,7 +8795,6 @@ nochange.ggsafe.com
 node.cdntxt.com
 nofejectontrab.info
 nokaut.link
-nompakru.click
 nonissue.com
 nonkads.com
 nonsi.csheaven.com
@@ -9253,6 +9238,7 @@ p.typekit.net
 p.zol.com.cn
 p0.raasnet.com
 p24.hu
+p2ads.com
 p2poolmining.com
 p2r14.com
 p2sdmkj6t.bkt.clouddn.com
@@ -9284,7 +9270,6 @@ pages05.net
 pagesense.io
 pagesinxt.com
 pagoda56.com
-paibopse.com
 paid-to-promote.net
 paidonresults.net
 paidsearchexperts.com
@@ -9392,7 +9377,6 @@ peer39.net
 peerius.com
 peethobo.com
 pegaumsi.com
-pegloang.com
 pejqoq4cafo3bg9yqqqtk5e6s6.com
 pema.cl
 pennynetwork.com
@@ -9455,7 +9439,6 @@ phantom.nudgespot.com
 pharmadeal.gr
 pharmcash.com
 phedudug.net
-pheedroh.net
 pheegoab.click
 pheepudo.net
 pheergar.com
@@ -11229,7 +11212,6 @@ sifakaoshi360.com
 sifomedia.se
 sift.com
 siftscience.com
-sifuglie.com
 signaly.co
 signatu.com
 signifyd.com
@@ -12242,7 +12224,6 @@ thebrighttag.com
 thebunsenburner.com
 thecounter.com
 theechosystem.com
-theersoa.net
 thefifthera.com
 thefreehitcounter.com
 thefxarchive.com
@@ -13019,7 +13000,6 @@ usa.cc
 usabilitytools.com
 usabilla.com
 usage.seibert-media.io
-usairguw.com
 usbanners.com
 usefomo.com
 useinsider.com
@@ -13315,7 +13295,6 @@ vnet.cn
 vnrherdsxr.com
 vntsm.com
 voaroawo.net
-voastauz.net
 vod-cash.com
 vodp-e-streamingmagentamusic360.tls1.yospace.com
 vogo-vogo.ru
@@ -13585,7 +13564,6 @@ whefungu.com
 whegrads.com
 where.com
 wheshaud.net
-whiceega.com
 whitepixel.com
 whitepush.biz
 whizzco.com
@@ -13847,7 +13825,6 @@ www.joomlalivechat.com
 www.jqassets.download
 www.jquery-cdn.download
 www.jshonghuadq.com
-www.kanjiantu.com
 www.kanshuapp.com
 www.kcta.or.kr
 www.kjbbc.net
@@ -16555,7 +16532,6 @@ zzsdtzb.com
 .aoyinn.com
 .apas.aipai.com
 .apearkcan.club
-.api-access.pangolin-sdk-toutiao-b.com
 .api-deal.kechenggezi.com
 .api-flow.flyme.cn
 .api-flow.meizu.com
@@ -23345,6 +23321,7 @@ zzsdtzb.com
 .palmnews.sina.cn
 .panda.kdnet.net
 .panel-cn.com
+.pangolin-sdk-toutiao-b.com
 .pangolin-sdk-toutiao.com
 .pangu.cc
 .panoramio.com

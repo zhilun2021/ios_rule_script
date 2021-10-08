@@ -1,11 +1,13 @@
 # NAME: Cryptocurrency
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-05 08:51:05
-# DOMAIN-SUFFIX: 14
-# TOTAL: 14
+# UPDATED: 2021-10-09 02:08:47
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
 payload:
   - DOMAIN-SUFFIX,aex.com
+  - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-SUFFIX,aimoon.com
   - DOMAIN-SUFFIX,bibox.com
   - DOMAIN-SUFFIX,binance.cc
   - DOMAIN-SUFFIX,binance.com

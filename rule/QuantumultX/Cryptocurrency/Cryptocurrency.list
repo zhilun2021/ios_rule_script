@@ -1,10 +1,12 @@
 # NAME: Cryptocurrency
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-23 09:41:07
-# HOST-SUFFIX: 14
-# TOTAL: 14
+# UPDATED: 2021-10-09 02:08:45
+# HOST-SUFFIX: 16
+# TOTAL: 16
 HOST-SUFFIX,aex.com,Cryptocurrency
+HOST-SUFFIX,aicoin.com,Cryptocurrency
+HOST-SUFFIX,aimoon.com,Cryptocurrency
 HOST-SUFFIX,bibox.com,Cryptocurrency
 HOST-SUFFIX,binance.cc,Cryptocurrency
 HOST-SUFFIX,binance.com,Cryptocurrency
